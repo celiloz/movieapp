@@ -207,7 +207,7 @@ const style = StyleSheet.create({
     },
     content_text:{
       fontSize: 20,
-      color: '#66666'
+      color: '#666666'
     },
     casts:{
       marginTop: 20,

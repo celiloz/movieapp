@@ -3,11 +3,8 @@ import { NavigationContainer } from '@react-navigation/native';
 import {createStackNavigator, CreateStackNavigator} from '@react-navigation/stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome';
-import { faMagnifyingGlass } from '@fortawesome/free-solid-svg-icons';
-
 import Index from '../Screens/index';
 import View from '../Screens/view';
-import Search from '../Screens/search';
 
 import { faHome } from '@fortawesome/free-solid-svg-icons';
 
